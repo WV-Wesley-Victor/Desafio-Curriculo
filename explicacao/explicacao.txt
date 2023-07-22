@@ -1,0 +1,17 @@
+vou explicar o código HTML e CSS:
+
+HTML:
+- A estrutura HTML começa com a declaração do documento e as metainformações no <head>, que incluem o título da página, o conjunto de caracteres, informações sobre o autor, descrição e palavras-chave.
+- No <body>, temos o conteúdo do currículo, que inclui o nome do candidato, informações pessoais (nacionalidade, estado civil e idade), uma lista de links para perfis sociais e profissionais, informações sobre o objetivo de carreira, experiência profissional, formação acadêmica, cursos e idiomas.
+
+CSS:
+- O CSS incluído na seção <style> é usado para estilizar os elementos HTML da página.
+- A fonte utilizada é "Segoe UI", com fallbacks para outras fontes caso não esteja disponível.
+- A largura do conteúdo (<body>) é definida como 80% da largura da janela do navegador e é centralizada horizontalmente usando margin: auto;. A cor de fundo é definida como cinza claro (#ccc) e o texto é definido como cinza escuro (#444).
+- O título <h1> tem um fundo de cor lilás (#acafd4), cor de texto azul escuro (#061761), é centralizado e tem um tamanho de fonte de 46px.
+- Os títulos secundários <h2> têm um fundo cinza (#b6b6b6), cor de texto azul escuro (#061761), borda inferior de 3px sólida, preenchimento de 10px, margem superior de 48px e margem inferior de 12px.
+- O texto é centralizado usando a classe .center.
+- Os links <a> não têm decoração de texto (sublinhado), e quando estão no estado de hover (quando o mouse passa sobre eles), eles recebem um sublinhado.
+- A classe .menu centraliza os itens da lista <li> que estão em linha e sem marcadores. Os links no menu têm um fundo cinza claro (#c1bebe) e preenchimento de 16px. Quando o mouse passa sobre eles, o fundo se torna cinza escuro (#333) e o texto fica branco (#fff).
+
+Em resumo, esse código cria uma página simples de currículo com um estilo limpo e elegante. Os elementos são organizados em seções distintas com cores de fundo e estilos diferentes, tornando o currículo fácil de ler e destacando as informações importantes.
